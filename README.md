@@ -42,13 +42,13 @@ const createSongList = () => {
 
 ## Resposta
 6) 
-- Primeiro ele cria um elemento HTML chamado ("ol") que é uma lista ordenada dentro da variável "list"
+- Primeiro ele cria um elemento *HTML* chamado ("ol") que é uma *lista ordenada dentro da variável "list".*
 
-- Depois ele entra em um for loop de acordo com o tamanho da sua lista de músicas
+- Depois ele entra em um *for loop* de acordo com o tamanho da sua lista de músicas
 
 - Depois ele cria outro elemento HTML chamado ("li") dentro da variável "item" que é o elemento que fica dentro do ("ol")
 
-- Depois disso ele adiciona o nome de cada iteração da Array "songs" dentro de "item" usando o createTextNode
+- Depois disso ele adiciona o nome de cada iteração da *Array* "songs" dentro de "item" usando o createTextNode
 
 - E por fim ele o "item" (li) a "list" (ol)
 
