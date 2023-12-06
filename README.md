@@ -1,5 +1,5 @@
 ## Proposta
-Projetos de equipes de duplas para entregar até o dia 14/12 (valendo a nota N2)
+Projetos de equipes de 1 à 2 pessoas para entregar até o dia 14/12 (valendo a nota N2)
 
 Projeto 1 (inglês)
 
