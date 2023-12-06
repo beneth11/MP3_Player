@@ -38,7 +38,7 @@ const createSongList = () => {
 };
 ```
 
-7) Modifique o código para quando vc clicar sobre a barra de progresso, a música avançar para o ponto correspondente
+7) Modifique o código para quando você clicar sobre a barra de progresso, a música avançar para o ponto correspondente
 
 ## Resposta
 6) 
