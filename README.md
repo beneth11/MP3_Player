@@ -50,7 +50,7 @@ const createSongList = () => {
 
 - Depois disso ele adiciona o nome de cada iteração da *Array* "songs" dentro de "item" usando o createTextNode
 
-- E por fim ele o "item" (li) a "list" (ol)
+- E por fim ele põe os "itens" (li) na "lista" (ol)
 
 ``` bash
 <ol>
